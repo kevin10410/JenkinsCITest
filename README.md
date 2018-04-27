@@ -1,2 +1,3 @@
 # JenkinsCITest
-TEST123
+TEST1
+TEST2
